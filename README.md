@@ -56,7 +56,7 @@ graph TD
 ## 🖥️ Dashboard Preview
 
 <div align="center">
-  <img src="https://via.placeholder.com/900x500/0a0a0a/00d4aa?text=SaaS+Dashboard+Interface" alt="Dashboard Preview" />
+  <img src="https://placehold.co/900x500/0a0a0a/00d4aa?text=SaaS+Dashboard+Interface" alt="Dashboard Preview" />
 </div>
 
 ---
@@ -127,3 +127,4 @@ This boilerplate is completely open-source under the **MIT License**. Build your
   <h3>Built by <a href="https://github.com/razinahmed">Abdul Rasak V</a></h3>
   <p>⭐ If this saves you time, please give it a star!</p>
 </div>
+
